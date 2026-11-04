@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #fdf6ec;
+  color: #3b2a1a;
+}
+
+header {
+  padding: 2rem 1rem;
+  text-align: center;
+}
