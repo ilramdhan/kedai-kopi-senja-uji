@@ -13,3 +13,8 @@ header {
 .menu-nonkopi h2 {
   color: #6b8e23;
 }
+
+footer {
+  padding: 1rem;
+  text-align: center;
+}
