@@ -1,0 +1,6 @@
+# .gitignore
+# Catatan pribadi, bukan untuk publik
+catatan-harga-pribadi.txt
+
+# Pengaturan VS Code khusus laptop ini
+.vscode/
