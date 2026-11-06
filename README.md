@@ -6,7 +6,7 @@ Situs satu halaman untuk Kedai Kopi Senja milik Mbak Sari.
 ## Isi
 
 - Menu kopi dan menu nonkopi beserta harganya
-- Alamat kedai
+- Alamat kedai di bagian bawah halaman
 
 ## Cara membuka
 
