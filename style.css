@@ -10,6 +10,10 @@ header {
   text-align: center;
 }
 
+.menu-kopi h2 {
+  color: #8b4513;
+}
+
 .menu-nonkopi h2 {
   color: #6b8e23;
 }
